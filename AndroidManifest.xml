@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="com.android.internal.display.cutout.emulation.jairajMedium"
+    platformBuildVersionCode="29"
+    platformBuildVersionName="10"
+    android:compileSdkVersion="29"
+    android:compileSdkVersionCodename="10"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <overlay
+        android:priority="0"
+        android:targetPackage="android"
+        android:category="com.android.internal.display_cutout_emulation" />
+    <application
+        android:label="Medium Statusbar"
+        android:hasCode="false"
+        android:extractNativeLibs="false" />
+</manifest>
