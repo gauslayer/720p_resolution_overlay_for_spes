@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="dimen" name="status_bar_height_landscape" id="0x7f020003" />
+    <public type="dimen" name="status_bar_height_portrait" id="0x7f020004" />
+    <public type="dimen" name="status_bar_height" id="0x7f020007" />
+    <public type="dimen" name="status_bar_height_default" id="0x7f020008" />
+    <public type="dimen" name="rounded_corner_radius_top_adjustment" id="0x7f020000" />
+    <public type="dimen" name="rounded_corner_radius_top" id="0x7f020001" />
+    <public type="dimen" name="rounded_corner_radius_bottom_adjustment" id="0x7f020002" />
+    <public type="dimen" name="rounded_corner_radius_bottom" id="0x7f020009" />
+    <public type="dimen" name="rounded_corner_radius_adjustment" id="0x7f020010" />
+    <public type="dimen" name="rounded_corner_radius" id="0x7f020011" />
+</resources>

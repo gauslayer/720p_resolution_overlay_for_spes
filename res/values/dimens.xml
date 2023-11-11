@@ -1,1 +1,13 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_bar_height_landscape">34.0dip</dimen>
+    <dimen name="status_bar_height_portrait">30.0dip</dimen>
+    <dimen name="status_bar_height">30.0dip</dimen>
+    <dimen name="status_bar_height_default">30.0dip</dimen>
+    <dimen name="rounded_corner_radius_top_adjustment">0.0dip</dimen>
+    <dimen name="rounded_corner_radius_top">0.0dip</dimen>
+    <dimen name="rounded_corner_radius_bottom_adjustment">0.0dip</dimen>
+    <dimen name="rounded_corner_radius_bottom">0.0dip</dimen>
+    <dimen name="rounded_corner_radius_adjustment">0.0dip</dimen>
+    <dimen name="rounded_corner_radius">0.0dip</dimen>
+</resources>
